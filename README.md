@@ -33,5 +33,4 @@ I chose OpenWeatherMap API because It's popular and offers a free tier that prov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AhmedEssam0271/weather.git
-   ```
+   git clone https://github.com/AhmedEssam0271/Weather
